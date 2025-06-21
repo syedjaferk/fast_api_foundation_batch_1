@@ -1,0 +1,13 @@
+
+Day 3: Async, Testing, Deployment, and Project
+
+    Async Endpoints and Background Tasks
+    File Uploads and Static Files
+    Writing Unit Tests with pytest and TestClient
+    Caching (Intro to Redis or in-memory)
+    WebSockets Introduction (optional)
+    Final Project Implementation (Mini App)
+    Project Demo and Code Walkthrough
+    Recap Quiz / Production Checklist
+    Advanced Topics & Take-Home Resources
+

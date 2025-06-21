@@ -1,0 +1,11 @@
+Day 1: API & FastAPI Foundations
+
+    Introduction to APIs
+    HTTP Basics & REST Principles
+    Tools for API Testing (Postman, Curl, Swagger)
+    Introduction to FastAPI
+    Project Setup & Folder Structure
+    Path Parameters, Query Parameters, and Request Body
+    Pydantic Models for Validation
+    Response Models and Status Codes
+    Interactive Docs (Swagger & Redoc)

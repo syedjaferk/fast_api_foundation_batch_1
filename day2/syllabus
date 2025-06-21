@@ -1,0 +1,13 @@
+
+
+Day 2: CRUD, Database, and Authentication
+
+    Setting up SQLModel with SQLite/PostgreSQL
+    Creating CRUD Endpoints (GET, POST, PUT, DELETE)
+    Dependency Injection with FastAPI
+    Error Handling and Custom Exceptions
+    JWT-based Authentication (Login, Signup, Protected Routes)
+    Middleware and CORS Handling
+    Structuring Modular FastAPI Apps
+    Dockerizing the FastAPI Application
+    Environment Variables with python-dotenv
